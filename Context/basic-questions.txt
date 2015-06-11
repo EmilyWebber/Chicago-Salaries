@@ -1,0 +1,24 @@
+What kinds of things would you want to know about the payment of public employees in Chicago?
+
+Basic Questions
+(1) Which departments have the most employees? Job titles are the most common?
+(2) Which departments have the highest pay per capita? Job titles?
+(3) Which departments have more men? More women? What is the racial distribution across the departments?
+(4) Which departments have the longest tenured employees? Which have the highest turnover rates?
+(6) Does an unsupervised clustering result in anything we didn't already know?
+(5) What is the strongest indicator of high pay?
+
+Predictive Analytics
+(1) Can we train a model on Chicago employee data, and test it on cities across the country to see if the same "stereotyping" holds?
+
+Other Contextual Questions
+(1) Does it match what people currently say about public employment?
+(2) How does it relate to the pension crisis?
+(3) Can we get historical data?
+
+More Basic Questions:
+- Average salary
+- Average salary in each job title, in each department, in each socioeconomic distribution
+- Standard deviation across all salaries, and in each department, each job title, each socioeconomic distribution
+-Which department has the highest aggregate of different job titles? Which department has the least?
+- Which department has the highest aggregate of high pay? Low pay? Difference in pay?
